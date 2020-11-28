@@ -1,0 +1,38 @@
+body{
+    background-color: #f0f0f0;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.region
+{
+    margin: 40px auto;
+    width: auto;
+}
+.boxrow
+{
+   display: flex;
+   justify-content: center;
+}
+.box
+{
+    width: 32px;
+    height: 32px;
+    margin:5px;
+
+}
+.slider
+{
+    width: 44% !important;
+    margin: 10px 27%;
+}
+.inside
+{
+    padding: auto;
+    font-size: x-large;
+    height: 100%;
+}
